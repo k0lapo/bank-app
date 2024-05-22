@@ -34,7 +34,7 @@ Getting Started
 
 Clone the Repository: Clone this repository to your local machine.
 
-git clone https://github.com/yourusername/bank-website.git
+git clone https://k0lapo.github.io/bank-app/
 
 Install Dependencies: Navigate into the project directory and install the necessary dependencies.
 
@@ -60,3 +60,6 @@ Push to the branch (git push origin feature/your-feature).
 
 Create a new Pull Request.
 
+
+## Project Preview
+[View the live project here](https://k0lapo.github.io/bank-app/)
